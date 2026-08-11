@@ -1,0 +1,146 @@
+{
+  "languages": [
+    {
+      "label": "简体中文",
+      "value": "zh_cn"
+    }
+  ],
+  "packages": [
+    {
+      "language": "zh_cn",
+      "description": "Paper 26.2一键开服包，包含：经济，商店，容器锁，领地，传送到家等功能的插件",
+      "title": "Paper 26.2",
+      "category": "26.2",
+      "runtime": "Java 25+",
+      "size": "86.73MB",
+      "hardware": "内存 2GB+",
+      "author": "mineleng",
+      "setupInfo": {
+        "stopCommand": "stop",
+        "stopTimeout": 0,
+        "ie": "UTF-8",
+        "oe": "UTF-8",
+        "createDatetime": 1786377083517,
+        "lastDatetime": 0,
+        "type": "minecraft/java/paper",
+        "tag": [],
+        "endTime": 0,
+        "fileCode": "UTF-8",
+        "processType": "general",
+        "actionCommandList": [],
+        "crlf": 1,
+        "category": 0,
+        "enableRcon": false,
+        "java": {},
+        "terminalOption": {
+          "haveColor": true,
+          "pty": false,
+          "ptyWindowCol": 164,
+          "ptyWindowRow": 40
+        },
+        "eventTask": {
+          "autoStart": false,
+          "autoRestart": false,
+          "autoRestartMaxTimes": 3,
+          "ignore": false
+        },
+        "docker": {
+          "updateCommandImage": "HOST",
+          "ports": [],
+          "extraVolumes": [],
+          "networkMode": "bridge",
+          "networkAliases": [],
+          "workingDir": "/data",
+          "env": [],
+          "changeWorkdir": true,
+          "labels": [],
+          "gpuEnabled": false,
+          "gpuCount": -1,
+          "gpuDeviceIds": [],
+          "gpuDriver": "nvidia",
+          "deviceReadBps": [],
+          "deviceWriteBps": []
+        },
+        "pingConfig": {
+          "type": 1
+        },
+        "extraServiceConfig": {},
+        "startCommand": "{mcsm_java} -jar server.jar"
+      },
+      "gameType": "Java Edition",
+      "image": "https://wallpaper.dog/large/20351563.jpg",
+      "platform": "Linux",
+      "tags": [],
+      "isSummary": false,
+      "targetLink": "https://gh-proxy.org/https://github.com/mcmineleng/mcsmanager-application-repo/releases/download/26.2/paper_26.2_plugins_pack.zip"
+    },
+    {
+      "language": "zh_cn",
+      "description": "原版Minecraft 26.2服务器",
+      "title": "原版 26.2",
+      "category": "26.2",
+      "runtime": "Java 25+",
+      "size": "60.9MB",
+      "hardware": "内存 2GB+",
+      "targetLink": "https://piston-data.mojang.com/v1/objects/823e2250d24b3ddac457a60c92a6a941943fcd6a/server.jar",
+      "author": "mineleng",
+      "setupInfo": {
+        "stopCommand": "^c",
+        "stopTimeout": 0,
+        "ie": "UTF-8",
+        "oe": "UTF-8",
+        "createDatetime": 1786377508370,
+        "lastDatetime": 0,
+        "type": "minecraft/java",
+        "tag": [],
+        "endTime": 0,
+        "fileCode": "UTF-8",
+        "processType": "general",
+        "actionCommandList": [],
+        "crlf": 1,
+        "category": 0,
+        "enableRcon": false,
+        "java": {},
+        "terminalOption": {
+          "haveColor": true,
+          "pty": false,
+          "ptyWindowCol": 164,
+          "ptyWindowRow": 40
+        },
+        "eventTask": {
+          "autoStart": false,
+          "autoRestart": false,
+          "autoRestartMaxTimes": 3,
+          "ignore": false
+        },
+        "docker": {
+          "updateCommandImage": "HOST",
+          "ports": [],
+          "extraVolumes": [],
+          "networkMode": "bridge",
+          "networkAliases": [],
+          "workingDir": "/data",
+          "env": [],
+          "changeWorkdir": true,
+          "labels": [],
+          "gpuEnabled": false,
+          "gpuCount": -1,
+          "gpuDeviceIds": [],
+          "gpuDriver": "nvidia",
+          "deviceReadBps": [],
+          "deviceWriteBps": []
+        },
+        "pingConfig": {
+          "type": 1
+        },
+        "extraServiceConfig": {},
+        "startCommand": "{mcsm_java} -jar server.jar"
+      },
+      "gameType": "Java Edition",
+      "image": "https://wallpaper.dog/large/20351563.jpg",
+      "platform": "Linux",
+      "tags": [],
+      "isSummary": false
+    }
+  ]
+}
