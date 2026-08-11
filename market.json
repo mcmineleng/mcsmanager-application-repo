@@ -68,7 +68,7 @@
         "startCommand": "{mcsm_java} -jar server.jar"
       },
       "gameType": "Java Edition",
-      "image": "https://wallpaper.dog/large/20351563.jpg",
+      "image": "https://gh-proxy.org/https://raw.githubusercontent.com/mcmineleng/mcsmanager-application-repo/main/icon/papermc.svg",
       "platform": "Linux",
       "tags": [],
       "isSummary": false,
@@ -137,7 +137,7 @@
         "startCommand": "{mcsm_java} -jar server.jar"
       },
       "gameType": "Java Edition",
-      "image": "https://wallpaper.dog/large/20351563.jpg",
+      "image": "https://gh-proxy.org/https://raw.githubusercontent.com/mcmineleng/mcsmanager-application-repo/main/icon/minecraft.svg",
       "platform": "Linux",
       "tags": [],
       "isSummary": false
